@@ -12,13 +12,16 @@ There are four ways to run the program:
 Open the Terminal, navigate to the directory in which the file resides and type:
   java -jar ticTacToe.jar
   
-2)  Human as Player 1 vs Computer
-  \njava -jar ticTacToe.jar -c 1
+2)  Human as Player 1 vs Computer:
 
-3)  Human as Player 2 vs Computer
+  java -jar ticTacToe.jar -c 1
+
+3)  Human as Player 2 vs Computer:
+
   java -jar ticTacToe.jar -c 2
   
-4) Computer vs Computer
+4) Computer vs Computer:
+
 java -jar ticTacToe.jar -c
 
 
