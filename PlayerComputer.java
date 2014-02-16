@@ -1,7 +1,5 @@
 /**
  * Edward Skrod, ejs09f
- * COP3252
- * Assignment 3
  * @version 1.0, February 2014
  * @author Edward Skrod  ejs09f@my.fsu.edu 
  * 

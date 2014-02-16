@@ -1,29 +1,21 @@
 /**
- * Edward Skrod, ejs09f
- * COP3252
- * Assignment 3
+ * Edward Skrod
+ * https://github.com/ejs09f/ticTacToeJava
  * February 14, 2014
  * Tic-Tac-Toe
  * 
- * Task:  
- * Write a Tic-Tac-Toe game, which will be played and
- * drawn with text characters on the console. This assignment
- * is based on exercise 8.19, but the specifications here will
- * be more specific. 
  * 
+ * Tic-Tac-Toe game, written in Java, which will be played and
+ * drawn with text characters on the console. 
+ * See README.md for usage information
  * 
  * @version 1.0, February 2014
  * @author Edward Skrod  ejs09f@my.fsu.edu 
  * 
  *
  */
-
 public class TicTacToe {
 
-	/**
-	 * @param args
-	 */
-	
 	public static void main(String[] args) {
 		
 		boolean commandLineError = false;
